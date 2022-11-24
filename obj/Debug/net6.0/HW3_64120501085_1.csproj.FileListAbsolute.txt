@@ -1,0 +1,15 @@
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\bin\Debug\net6.0\HW3_64120501085_1.exe
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\bin\Debug\net6.0\HW3_64120501085_1.deps.json
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\bin\Debug\net6.0\HW3_64120501085_1.runtimeconfig.json
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\bin\Debug\net6.0\HW3_64120501085_1.dll
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\bin\Debug\net6.0\HW3_64120501085_1.pdb
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.csproj.AssemblyReference.cache
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.AssemblyInfoInputs.cache
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.AssemblyInfo.cs
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.csproj.CoreCompileInputs.cache
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.dll
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\refint\HW3_64120501085_1.dll
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.pdb
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\HW3_64120501085_1.genruntimeconfig.cache
+C:\Users\Sirinya.Bell\Desktop\HW3_64120501085_1\obj\Debug\net6.0\ref\HW3_64120501085_1.dll
